@@ -1,0 +1,2 @@
+# Paleti
+welcome to github
